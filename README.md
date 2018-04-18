@@ -8,6 +8,7 @@
 - Create functional React components.
 - Load user images from an external site.
 - Make scrollable components.
+- Use [CSS Background Gradient Generator](https://github.com/martincomito/CSS-background-gradient-generator) to choose background colors
 
 ________________________________________________________________________________________
 
@@ -21,3 +22,4 @@ ________________________________________________________________________________
 - Crear componentes funcionales de React.
 - Cargar imágenes de usuario desde un sitio externo.
 - Crear componentes scrollables.
+- Usar [CSS Background Gradient Generator](https://github.com/martincomito/CSS-background-gradient-generator) para elegir los colores de fondo.
